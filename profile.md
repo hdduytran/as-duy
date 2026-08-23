@@ -1,12 +1,12 @@
 ---
 # Blog Identity
-blog_name: "duytran.dev"
-blog_tagline: "Personal notes on engineering, systems, and the occasional rant."
+blog_name: "asduy.blog"
+blog_tagline: "My aspects of Technology"
 
 # Author Info
-author_name: "Duy Tran"
-author_display_name: "Duy Tran"
-avatar: ""
+author_name: "As Duy"
+author_display_name: "Duc Duy"
+avatar: "/attachments/1787477524088-avatar.jpeg"
 
 # Social Links
 social:
@@ -45,6 +45,7 @@ seo:
 ---
 # About
 
+
 Cái blog này để viết về những suy nghĩ của bản thân mình về các khía cạnh trong ngành IT.
 
 ## Nội dung
@@ -54,3 +55,6 @@ Cái blog này để viết về những suy nghĩ của bản thân mình về 
 Mình sẽ cố gắng giữ thói quen viết bài vào cuối tuần.
 
 Hi vọng có ai đó thấy hữu ích 🙄🙄🙄
+
+
+![avatar.jpeg](attachments/1787477524088-avatar.jpeg)
