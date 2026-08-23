@@ -13,4 +13,4 @@ Fork it, point the `content/` submodule at your own Tolaria vault, edit `profile
 
 ## Contact
 
-Reach me at [hello@yourblog.dev](mailto:hello@yourblog.dev) or via the social links in the sidebar.
+Reach me at [hello@yourblog.dev](mailto:hello@yourblog.dev)  d or via the social links in the sidebar.
