@@ -1,7 +1,7 @@
 ---
 type: Note
 ---
-# About
+# Profile
 
 This is a template blog built with Next.js 16, Tailwind CSS v4, and a Tolaria vault as a Git submodule for content.
 
