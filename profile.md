@@ -6,7 +6,7 @@ blog_tagline: "My aspects of Technology"
 # Author Info
 author_name: "As Duy"
 author_display_name: "Duc Duy"
-avatar: "/attachments/1787477524088-avatar.jpeg"
+avatar: "/media/1787477524088-avatar.jpeg"
 
 # Social Links
 social:
