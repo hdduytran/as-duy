@@ -1,0 +1,28 @@
+name: Auto Update Submodule in Main Repo
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-main-repo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Main Repository
+        uses: actions/checkout@v3
+        with:
+          repository: hdduytran/personal-blog
+          token: ${{ secrets.PAT_TOKEN }}
+          submodules: true
+
+      - name: Cập nhật Submodule
+        run: |
+          # update submodule to the latest commit
+          git submodule update --remote content
+          
+          git config user.name "GitHub Action Bot"
+          git config user.email "action@github.com"
+          
+          git add content
+          git commit -m "chore: content update" || echo "No change"
+          git push
