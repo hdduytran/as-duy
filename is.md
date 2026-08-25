@@ -17,3 +17,6 @@ Mình sẽ chia làm:
 2. Kiến trúc phần mềm - Những thứ phi vật lý làm nên hệ thống thông tin
 3. Dữ liệu - Thứ quan trọng nhất ngày nay
 4. Con người và quy trình - Quá trình một hệ thống thông tin được làm ra và duy trì
+
+
+Sau tất cả mọi người sẽ biết hệ thống thông tin
